@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  font-family: cursive;
+  color: rgb(233, 185, 150);
+  background-color: rgba(148, 71, 16, 0.863);
+}
+#title {
+  font-style: italic;
+  font-family: sans-serif;
+  background-color: rgb(107, 34, 10);
+}
+#image {
+  max-width: 500px;
+  border-radius: 48%;
+  display: block;
+  margin: auto;
+  border-color: rgba(107, 34, 10);
+  border-width: 15px;
+  border-style: double;
+}
+#tribute-link {
+  color: rgb(48, 24, 7);
+}
+#img-caption {
+  color: rgb(48, 24, 7);
+}
+#click {
+  background-color: rgb(107, 34, 10);
+}
+#awards {
+  color: rgb(233, 185, 150);
+  text-align: left;
+}
